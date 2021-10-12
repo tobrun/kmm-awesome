@@ -114,7 +114,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [KmLogging](https://github.com/LighthouseGames/KmLogging) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/LighthouseGames/KmLogging)](https://github.com/LighthouseGames/KmLogging)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.lighthousegames/logging/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.lighthousegames/logging)
-> Kotlin multiplatform logging. High performance, composable and simple to use. 
+> Kotlin multiplatform logging. High performance, composable and simple to use.
 
 [Kydra Log](https://github.com/PocketByte/kotlin-kydra-log) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log)](https://github.com/PocketByte/kotlin-kydra-log)
@@ -125,7 +125,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor)](https://github.com/ktorio/ktor)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.ktor/ktor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.ktor)
-> Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on. 
+> Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on.
 
 [Apollo GraphQL](https://github.com/apollographql/apollo-android) - GraphQL client
 [![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android)](https://github.com/apollographql/apollo-android)
@@ -219,7 +219,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/media/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/media)
 > This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
 
-[MOKO Maps](https://github.com/icerockdev/moko-maps) - Google maps manager
+[MOKO Maps](https://github.com/icerockdev/moko-maps) - Google/Mapbox maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps)](https://github.com/icerockdev/moko-maps)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/maps/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/maps)
 > This is a Kotlin Multiplatform library that provides controls of maps to common code.
@@ -282,7 +282,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm)
 > This is a Kotlin Multiplatform library that provides architecture components of Model-View-ViewModel for UI applications. Components are lifecycle-aware on Android.
 
-[Oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform 
+[Oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/oolong-kt/oolong)](https://github.com/oolong-kt/oolong)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.oolong-kt/oolong/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.oolong-kt/oolong)
 > Oolong is an [Elm](https://guide.elm-lang.org/architecture) inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
@@ -308,7 +308,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/crash-reporting-crashlytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/crash-reporting-crashlytics)
 > Fatal and Non-Fatal reporting to Crashlytics for Kotlin Multiplatform Mobile
 
-[CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications 
+[CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications
 [![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/CrashKiOS)](https://github.com/touchlab/CrashKiOS)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios)
 > Thin library that provides symbolicated crash reports for Kotlin code on iOS.
@@ -317,7 +317,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest)](https://github.com/kotest/kotest)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.kotest/kotest-mpp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.kotest/kotest-mpp)
-> Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing 
+> Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 
 ### 🔑 Crypto
 [Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Libsodium bindings for Kotlin Multiplatform
@@ -353,7 +353,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 ### 🚀 Language extentions
 
-[Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
+[Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/arrow-kt/arrow)](https://github.com/arrow-kt/arrow)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.arrow-kt/arrow-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.arrow-kt/arrow-core)
 > Arrow aims to provide a lingua franca of interfaces and abstractions across Kotlin libraries. For this, it includes the most popular data types such as Option, Either, Validated etc and functional operators such as traverse and computation blocks to empower users to write pure FP apps and libraries built atop higher order abstractions.
@@ -412,7 +412,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/atomicfu/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/atomicfu)
 > The idiomatic way to use atomic operations in Kotlin.
 
-[Stately](https://github.com/Autodesk/coroutineworker) - Kotlin Multiplatform State Library 
+[Stately](https://github.com/Autodesk/coroutineworker) - Kotlin Multiplatform State Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/Autodesk/coroutineworker)](https://github.com/Autodesk/coroutineworker)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/stately/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/stately)
 > Stately is a state utility library to facilitate state management in Kotlin Multiplatform.
@@ -422,12 +422,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.autodesk/CoroutineWorker/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.autodesk/CoroutineWorker)
 > Kotlin Coroutine-based workers for native
 
-[Koru](https://github.com/FutureMind/koru) - Coroutine wrappers for Kotlin Native 
+[Koru](https://github.com/FutureMind/koru) - Coroutine wrappers for Kotlin Native
 [![GitHub Repo stars](https://img.shields.io/github/stars/FutureMind/koru)](https://github.com/FutureMind/koru)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru)
 > Automatically generates wrappers for suspend functions and Flow for easy access from Swift code in Kotlin Multiplatform projects.
 
-[KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Swift wrapper for Kotlin Coroutines 
+[KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Swift wrapper for Kotlin Coroutines
 [![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMP-NativeCoroutines)](https://github.com/rickclephas/KMP-NativeCoroutines)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core)
 > Library to use Kotlin Coroutines from Swift code in KMP apps
@@ -450,12 +450,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
 
 ### 🧩 Service SDK
-[Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase 
+[Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
 [![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk)](https://github.com/GitLiveApp/firebase-kotlin-sdk)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth)
 > The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.
 
-[VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
+[VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK
 [![GitHub Repo stars](https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin)](https://github.com/vksdk/vk-sdk-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core)
 > Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations
@@ -480,7 +480,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.liftric/cognito-idp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.liftric/cognito-idp)
 > Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.
 
-[TMDb API](https://github.com/MoviebaseApp/tmdb-api) - access to TMDb API 
+[TMDb API](https://github.com/MoviebaseApp/tmdb-api) - access to TMDb API
 [![GitHub Repo stars](https://img.shields.io/github/stars/MoviebaseApp/tmdb-api)](https://github.com/MoviebaseApp/tmdb-api)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api)
 > This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.
@@ -503,12 +503,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
 > Kotlin Multiplatform UUID generator
 
-[Colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation 
+[Colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation
 [![GitHub Repo stars](https://img.shields.io/github/stars/ajalt/colormath)](https://github.com/ajalt/colormath)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ajalt/colormath/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ajalt/colormath)
 > Colormath is a Kotlin Multiplatform library for color manipulation and conversion.
 
-[GEOK](https://github.com/piruin/geok) - Kotlin geometry library 
+[GEOK](https://github.com/piruin/geok) - Kotlin geometry library
 [![GitHub Repo stars](https://img.shields.io/github/stars/piruin/geok)](https://github.com/piruin/geok)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok)
 > Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.
